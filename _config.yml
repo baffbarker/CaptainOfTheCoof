@@ -20,6 +20,7 @@
 
 title: captainofthecoof
 description: A blog about surviving Covid aiming to dispel the fear involed in a hospitalistion.
+baseurl: '/captainofthecoof'
 
 # Build settings
 theme: minima
